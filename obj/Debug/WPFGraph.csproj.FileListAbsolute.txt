@@ -1,0 +1,14 @@
+C:\Users\Daniel\Documents\GitHub\WPFGraph\bin\Debug\WPFGraph.exe.config
+C:\Users\Daniel\Documents\GitHub\WPFGraph\bin\Debug\WPFGraph.exe
+C:\Users\Daniel\Documents\GitHub\WPFGraph\bin\Debug\WPFGraph.pdb
+C:\Users\Daniel\Documents\GitHub\WPFGraph\obj\Debug\WPFGraph.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\GitHub\WPFGraph\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Documents\GitHub\WPFGraph\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel\Documents\GitHub\WPFGraph\obj\Debug\App.g.cs
+C:\Users\Daniel\Documents\GitHub\WPFGraph\obj\Debug\WPFGraph_MarkupCompile.cache
+C:\Users\Daniel\Documents\GitHub\WPFGraph\obj\Debug\WPFGraph.g.resources
+C:\Users\Daniel\Documents\GitHub\WPFGraph\obj\Debug\WPFGraph.Properties.Resources.resources
+C:\Users\Daniel\Documents\GitHub\WPFGraph\obj\Debug\WPFGraph.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\GitHub\WPFGraph\obj\Debug\WPFGraph.exe.licenses
+C:\Users\Daniel\Documents\GitHub\WPFGraph\obj\Debug\WPFGraph.exe
+C:\Users\Daniel\Documents\GitHub\WPFGraph\obj\Debug\WPFGraph.pdb
